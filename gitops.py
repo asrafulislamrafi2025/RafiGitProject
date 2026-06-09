@@ -7,3 +7,5 @@ if Actual_mark>=pass_mark:
 else:
    print("regreate")
 
+for x in range(5)
+      print(5)
